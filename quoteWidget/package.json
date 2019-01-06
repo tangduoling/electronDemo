@@ -1,0 +1,19 @@
+{
+  "name": "quotewidget",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "electron": "^4.0.1",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "request":"^2.81.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC"
+}
